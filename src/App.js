@@ -17,7 +17,7 @@ function App() {
         >
           Raja Nithin Nandimandalam
         </a>
-<h1> Change made in main branch </h1>
+<h1> Change2 made in main branch </h1>
       </header>
     </div>
   );
